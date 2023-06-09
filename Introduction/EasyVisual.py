@@ -8,6 +8,8 @@ Created on Sat Jun  3 14:25:17 2023
 from vpython import *
 import numpy as np
 
+
+
 graph1 = graph(width=600, height=450, title='Visual 2D Plot',\
                   xtitle='x', ytitle='f(x)', foreground=color.black,\
                   background = color.black)
